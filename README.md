@@ -1,6 +1,6 @@
 # Rate NUML
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rate--numl.vercel.app-2563eb?style=for-the-badge)](https://rate-numl.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rate--numl.vercel.app-2563eb?style=for-the-badge)](https://rate-numl.live)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel)](https://rate-numl.vercel.app)
 
 **Anonymous professor review platform for the National University of Modern Languages (NUML).**
