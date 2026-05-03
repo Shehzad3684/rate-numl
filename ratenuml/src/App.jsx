@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "./firebaseConfig";
 import Header from "./components/Header";
@@ -108,6 +109,7 @@ export default function App() {
       <footer className="app-footer">
         2026 © Rate NUML — Anonymous Professor Reviews
       </footer>
+      <Analytics />
     </div>
   );
 }
