@@ -12,17 +12,17 @@ Rate and review your professors completely anonymously. Your identity is never s
 ## Features
 
  **671 Professors** across **32 departments** and **5 faculties**
- **Fully Anonymous** — no user data is ever attached to reviews
- **NUML Students Only** — sign-in restricted to `@numls.edu.pk` emails
- **Star Ratings & Comments** — honest feedback for fellow students
- **Responsive Design** — works on desktop and mobile
- **No Login Required to Browse** — sign in only needed to submit reviews
+ **Fully Anonymous** no user data is ever attached to reviews
+ **NUML Students Only** sign-in restricted to `@numls.edu.pk` emails
+ **Star Ratings & Comments** honest feedback for fellow students
+ **Responsive Design** works on desktop and mobile
+ **No Login Required to Browse** sign in only needed to submit reviews
 
 ## Tech Stack
 
 - **Frontend:** React (Vite)
 - **Database:** Firebase Realtime Database
-- **Auth:** Firebase Google Sign-In
+- **Auth:** Firebase Google Sign In
 - **Deployment:** Vercel
 - **Data:** Python scraper (BeautifulSoup)
 
