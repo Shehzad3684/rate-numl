@@ -1,0 +1,4699 @@
+[
+  {
+    "name": "Dr. Fazli Subhan",
+    "department": "Computer Science",
+    "designation": "Associate Professor,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ae837537886c3e2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1517"
+  },
+  {
+    "name": "Dr. Noman Malik",
+    "department": "Computer Science",
+    "designation": "Associate  Professor (HEC Approved Supervisor) (Program Evaluator for NCEAC)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3504b04dfa7ada4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/43"
+  },
+  {
+    "name": "Dr. Ata Ullah",
+    "department": "Computer Science",
+    "designation": "Associate Professor / Director ITCON & BICON",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c23141cba2484a2.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/41"
+  },
+  {
+    "name": "Dr. Sajjad Haider",
+    "department": "Computer Science",
+    "designation": "Assistant Professor (HEC Approved Supervisor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1b3d7a5731ac626.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/46"
+  },
+  {
+    "name": "Muhammad Naveed Alam",
+    "department": "Computer Science",
+    "designation": "Assistant Professor   (Former HOD)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/087c476d2ed5191.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/40"
+  },
+  {
+    "name": "Dr. Khawaja Moyeez Ullah Ghori",
+    "department": "Computer Science",
+    "designation": "Assistant Professor,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4381875de514c0c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/507"
+  },
+  {
+    "name": "Dr. Moeen ud din Tariq",
+    "department": "Computer Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/39cf8f00548bb0e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1478"
+  },
+  {
+    "name": "Dr. Asia Anjum",
+    "department": "Computer Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5dbc1a768d79b95.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/44"
+  },
+  {
+    "name": "Rana Abdul Sami Khan",
+    "department": "Computer Science",
+    "designation": "Lecturer (Study Leave)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c9a54472c958f08.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/77"
+  },
+  {
+    "name": "Sarah Mazhar",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/466f386649bae37.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/766"
+  },
+  {
+    "name": "Abdul Kaleem",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ee0fdf5bddd31d5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/47"
+  },
+  {
+    "name": "Muhammad Zafarullah",
+    "department": "Computer Science",
+    "designation": "Lecturer,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a7758d7bcdda378.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1244"
+  },
+  {
+    "name": "Dr. Farhad Muhammad Riaz",
+    "department": "Computer Science",
+    "designation": "Lecturer, (BSCS-FYP Coordinator)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/237ba261d3c74b8.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/966"
+  },
+  {
+    "name": "Hina Ali",
+    "department": "Computer Science",
+    "designation": "Assistant Professor,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0a7876c9b110eaf.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/502"
+  },
+  {
+    "name": "Dr. Sehrish Amjad",
+    "department": "Computer Science",
+    "designation": "Assistant Professor,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c6af379cbd8242f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1745"
+  },
+  {
+    "name": "Mehwish Sabih",
+    "department": "Computer Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/73cd48c7a94efe0.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/510"
+  },
+  {
+    "name": "Mohammad Raza Perwez",
+    "department": "Computer Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7ed0253ac90abff.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/45"
+  },
+  {
+    "name": "Muhammad Ehsan Ul Haq",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b0390de3694e4f3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/52"
+  },
+  {
+    "name": "Sajid Munir",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a0e040fb46bf21d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/71"
+  },
+  {
+    "name": "Qurat-Ul-Ain Raja",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d352c785fc7f64d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1208"
+  },
+  {
+    "name": "Amna Rauf",
+    "department": "Computer Science",
+    "designation": "Lecturer,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7e17ad14d38f0fa.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1632"
+  },
+  {
+    "name": "Muneeb Mehmood Abbasi",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/71c0a038e15a340.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/55"
+  },
+  {
+    "name": "Dr. Sadia Ashraf",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1d52f1fdadaf613.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/70"
+  },
+  {
+    "name": "Anab Batool",
+    "department": "Computer Science",
+    "designation": "Lecturer,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/27ad8c560f48b9d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/49"
+  },
+  {
+    "name": "Sabina Irum",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4b49214cc6f0b36.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/69"
+  },
+  {
+    "name": "Aisha Khalid",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f30c7bf32862f07.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1516"
+  },
+  {
+    "name": "Sayyada Humaira Batool",
+    "department": "Computer Science",
+    "designation": "Associate Lecturer/Lab Engineer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0dd332208fb8aa0.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/604"
+  },
+  {
+    "name": "M.Yasir Ateeq",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/828939e95affe04.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1538"
+  },
+  {
+    "name": "Frnaz Akbar",
+    "department": "Computer Science",
+    "designation": "Lecturer, AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4bd5a1662454c0d.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1633"
+  },
+  {
+    "name": "Zain Ul Abideen",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6cf351c7d39362f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/606"
+  },
+  {
+    "name": "Rabia Yousaf",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a7b76192f7d59c7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1299"
+  },
+  {
+    "name": "Iqra Naseem Abbasi",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/75dc29b6ff38027.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1634"
+  },
+  {
+    "name": "Malik Muhammad Shahid Ali",
+    "department": "Computer Science",
+    "designation": "Lecturer, AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/458f20bb94eb334.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1300"
+  },
+  {
+    "name": "Faraz Ahmed",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a4d5d381619ad4b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1635"
+  },
+  {
+    "name": "Syeda Malika Zahra",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dc339f944287569.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1477"
+  },
+  {
+    "name": "Ayesha Safdar",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b4c130101276943.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1476"
+  },
+  {
+    "name": "Meesam Raza",
+    "department": "Computer Science",
+    "designation": "Lecturer, CS",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/88c720b9c9b42c4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1474"
+  },
+  {
+    "name": "Mehwish Zeb Abbasi",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/67fd6aab05959c1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1475"
+  },
+  {
+    "name": "Ayesha Zafar Jarral",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/075e21edd6ee312.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1473"
+  },
+  {
+    "name": "Danyal Khan",
+    "department": "Computer Science",
+    "designation": "Lecturer, AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8d338aa380ed9a0.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1713"
+  },
+  {
+    "name": "Laiba Sabir",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a9be5e985e9ac4f.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1856"
+  },
+  {
+    "name": "Tooba",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4cdeb49552b55a5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1722"
+  },
+  {
+    "name": "Faria imtiaz",
+    "department": "Computer Science",
+    "designation": "Lecturer, CS",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8ad04a0cc593a00.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1723"
+  },
+  {
+    "name": "Salman Ahmed",
+    "department": "Computer Science",
+    "designation": "Lecturer, AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f2082548330a21e.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1724"
+  },
+  {
+    "name": "Rabbia Basharat",
+    "department": "Computer Science",
+    "designation": "Lecturer, AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/19b0a2b00b1c206.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1714"
+  },
+  {
+    "name": "Sidra Liaqat",
+    "department": "Computer Science",
+    "designation": "Lecturer, AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/36e253275877a7f.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1715"
+  },
+  {
+    "name": "Shahgufta Iftikhar",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5cb77d519049a33.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1857"
+  },
+  {
+    "name": "Ana Shahid",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a6c0dedf7b036aa.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1800"
+  },
+  {
+    "name": "Tehmeema Irfan",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f6fbaa6944c4ac2.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1802"
+  },
+  {
+    "name": "Asma Zahra",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/320df2fca1e3617.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1801"
+  },
+  {
+    "name": "Sahar Andaleeb",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1803"
+  },
+  {
+    "name": "Madiha Noreen",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1804"
+  },
+  {
+    "name": "Falak Tahir",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c67322188794358.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1805"
+  },
+  {
+    "name": "Zunaira Sajid",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/977ad22f8a0ac0a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1806"
+  },
+  {
+    "name": "Hafsa Zahra",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/18517424d544174.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1807"
+  },
+  {
+    "name": "Samiya Shaheen",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1808"
+  },
+  {
+    "name": "Dr. QuaratulAin Safdar",
+    "department": "Computer Science",
+    "designation": "Assistant Professor,AI",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7ea1d5d44a2afd1.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1005"
+  },
+  {
+    "name": "Dr. Muhammad Rizwan",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0d818e8d4aacba2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/74"
+  },
+  {
+    "name": "Dr. Farhan Sohail",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Assistant Professor (ELECTRICAL ENGINEERING)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/30b1b5e2c534d81.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/116"
+  },
+  {
+    "name": "Dr.Sheraz Alam Khan",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Assistant Professor (ELECTRICAL ENGINEERING)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7914c848e408261.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/108"
+  },
+  {
+    "name": "Dr. Rizwan Amirzada",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Assistant Professor (ELECTRICAL ENGINEERING)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/80b8db9e0f9e98d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/106"
+  },
+  {
+    "name": "Dr. Omar Hayat",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Assistant Professor(ELECTRICAL ENGINEERING)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/48a83ecee996690.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/464"
+  },
+  {
+    "name": "Saima Zaheer",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Assistant Professor (ELECTRICAL ENGINEERING)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/109"
+  },
+  {
+    "name": "Dr. Madah Ul Mustafa",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/073506ac89edb25.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/944"
+  },
+  {
+    "name": "Safee ullah Safee",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/062ed2012848e13.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/88"
+  },
+  {
+    "name": "Maria Bano",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer (ELECTRICAL ENGINEERING)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/57d0dbf83ed3380.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/111"
+  },
+  {
+    "name": "Farrukh Zain ul Abideen",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer/ Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1938"
+  },
+  {
+    "name": "Tehseen Hussain",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer/ Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0adcccc53b8a9b4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/993"
+  },
+  {
+    "name": "Favad Qadir",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/393eba7121d4889.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1533"
+  },
+  {
+    "name": "Engr Faiq Ahmad Khan",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lab Engineer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f5ab92fa61d1b42.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/738"
+  },
+  {
+    "name": "Engr Mubashar Sarfraz",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lab Engineer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c62d83903f908ce.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/739"
+  },
+  {
+    "name": "Muhammad Yasir Siddique Anjum",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5a0ca831d2cbb01.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1650"
+  },
+  {
+    "name": "Sidra Ashraf",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5dd735cf2922657.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1939"
+  },
+  {
+    "name": "Muhammad Farooq",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a85f386c5500c85.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1940"
+  },
+  {
+    "name": "Ms. Rabia Fazal Dad",
+    "department": "Electrical and Computer Engineering",
+    "designation": "Lab Engineer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/29bf3054e59680e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/992"
+  },
+  {
+    "name": "Dr. Sumaira Nazir",
+    "department": "Software Engineering",
+    "designation": "Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/da0919a41f33623.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/600"
+  },
+  {
+    "name": "Dr. Huma Hayat Khan",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/01e955a340228bd.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/584"
+  },
+  {
+    "name": "Dr. Hammad Dilpazir",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4c6fba8b8b9da15.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1424"
+  },
+  {
+    "name": "Dr. Muhammad Javvad ur Rehman",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/985c681beef87b6.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/587"
+  },
+  {
+    "name": "Dr. Hasan Humayun",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a21b67175527177.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/588"
+  },
+  {
+    "name": "Dr. Naveed Ahmad",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6e7ef614f91664e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/589"
+  },
+  {
+    "name": "Dr. Nargis Fatima",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ea06c168c1db2c7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/601"
+  },
+  {
+    "name": "Dr. Zohaib Ahmed",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4deaab71a10c0b6.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/602"
+  },
+  {
+    "name": "Dr. Marriam Daud",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f1c0e74de01bd24.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1363"
+  },
+  {
+    "name": "Dr. Jaweria Kanwal",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7c5327b861704d6.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/921"
+  },
+  {
+    "name": "Engr. Dr. Sannia Arshad",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/aa6a1f11c8182a5.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1417"
+  },
+  {
+    "name": "Dr. Maryam Imtiaz Malik",
+    "department": "Software Engineering",
+    "designation": "Coordinator (SE) - Lecturer Morning",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d4d00a76aad9ca2.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/973"
+  },
+  {
+    "name": "Waris Ali",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ab0706e18f50df1.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/590"
+  },
+  {
+    "name": "Muhammad Awais Gondal",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/374b42a4da9923f.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/595"
+  },
+  {
+    "name": "Sadaf Anwar",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ec7ec9693a40f6d.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/596"
+  },
+  {
+    "name": "Muhammad Waqar",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c50c807d4aa3229.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1418"
+  },
+  {
+    "name": "Aaqib Adeel",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3ad0025d3681ffa.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/597"
+  },
+  {
+    "name": "Wajiha Mughal",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1d96bf70c365e1a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/598"
+  },
+  {
+    "name": "Asad Hussain",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c21a5a5f82584d6.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/603"
+  },
+  {
+    "name": "Saadia Shabbir",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/51cfa140f467c70.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/742"
+  },
+  {
+    "name": "Engr. Muhammad Arif",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/50004fc3aa7f09a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/876"
+  },
+  {
+    "name": "Iqra Shahzad",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/42ffba4e9510ce9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/894"
+  },
+  {
+    "name": "Fatima Gillani",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0928c6c661c3647.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/895"
+  },
+  {
+    "name": "Syed Hasnain Abbas Bukhari",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/34d0f8ddce8bb5d.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/874"
+  },
+  {
+    "name": "Meher UN Nisa",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a9e03d110f76ecb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1148"
+  },
+  {
+    "name": "Anam Asghar",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f3cc80b99a4c84d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1249"
+  },
+  {
+    "name": "Qaiser Shahzad",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5b4e8b5489879a4.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1250"
+  },
+  {
+    "name": "Muhammad Irtaza",
+    "department": "Software Engineering",
+    "designation": "Lecturer - Coordinator (IT & DS) Morning",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4ee31e7463673bd.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1248"
+  },
+  {
+    "name": "Mohsin Abbas",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/82ffc69ad415ff8.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1710"
+  },
+  {
+    "name": "Syeda Maryam Tahir",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5cd36d355caada8.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1358"
+  },
+  {
+    "name": "Amna Sajid",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/eff65fbb9816aad.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1359"
+  },
+  {
+    "name": "Nabeela Bibi",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7e4802c92e3f9cf.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1361"
+  },
+  {
+    "name": "Iftikhar Ali",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6e679db46a10fd8.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1452"
+  },
+  {
+    "name": "Anum Taskeen",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d8b5583bc02da6b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1448"
+  },
+  {
+    "name": "Muhammad Usman Shahid",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0f3e974851dfdbb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1449"
+  },
+  {
+    "name": "Ahsan Arif",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c146cb5c6b70b9d.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1450"
+  },
+  {
+    "name": "Benish Sharfeen Khan",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5dc21e660b324d2.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1421"
+  },
+  {
+    "name": "Muhammad Khateeb Khan",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5df487b80d66bce.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1711"
+  },
+  {
+    "name": "Sana Gul",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8266355c007be13.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1708"
+  },
+  {
+    "name": "Basit Amin",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5a439748033a07a.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1853"
+  },
+  {
+    "name": "Muhammad Danish",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e6d4a7f8a5d4a76.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1854"
+  },
+  {
+    "name": "Maira Zulfiqar",
+    "department": "Software Engineering",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7e7b49436fafb39.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1707"
+  },
+  {
+    "name": "Dr.-Ing M Rizwan Amirzada",
+    "department": "Software Engineering",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1630ebbc2392e51.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1809"
+  },
+  {
+    "name": "Faryal Hayat",
+    "department": "Software Engineering",
+    "designation": "Lecturer - Coordinator (IT & SE) Afternoon",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0035e222c877c1d.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1855"
+  },
+  {
+    "name": "Dr. Muhammad Abu Bakar Bhutta)",
+    "department": "Arabic",
+    "designation": "Assistant Professor/HOD Arabic",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/44f93a6d378047d.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/477"
+  },
+  {
+    "name": "Dr. Lubna Farah",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e997fc4d882c967.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/726"
+  },
+  {
+    "name": "Dr. Noor Zaman",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9774daf4447db1b.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/466"
+  },
+  {
+    "name": "Dr. Salma Shahida",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9c7d03879911a66.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/489"
+  },
+  {
+    "name": "Dr. Habib Nawaz Khan",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7ba7a426550eaeb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/467"
+  },
+  {
+    "name": "Dr. Hafiz Muhammad Badshah",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0bc1e8a69adb393.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/488"
+  },
+  {
+    "name": "Dr. Rana Aman ullah",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/376d61b149c28b6.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/478"
+  },
+  {
+    "name": "Dr. Kausar Arshad",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/30ec1accd7dbe16.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/476"
+  },
+  {
+    "name": "Dr. Tahir Mehmood",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/25d7ac5c67c8d6e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/490"
+  },
+  {
+    "name": "Dr. Qasim Azzam Bhutta",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9a0725f94c2d7d9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/479"
+  },
+  {
+    "name": "Dr. Muhammad Iqbal",
+    "department": "Arabic",
+    "designation": "Assistant Professor & Former Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2f98a69742c52e4.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/465"
+  },
+  {
+    "name": "Dr. Farah Naz",
+    "department": "Arabic",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dbd3d3dc801015a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/491"
+  },
+  {
+    "name": "Dr. Abdullah Muhammad Bilal",
+    "department": "Arabic",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/03c2eed67749553.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/487"
+  },
+  {
+    "name": "Dr. Muhammad Naeem Ashraf",
+    "department": "Arabic",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0b9c172bd1feacc.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/472"
+  },
+  {
+    "name": "Dr. Arshad Mahmood Qureshi",
+    "department": "Arabic",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4356c1deadfaecb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/474"
+  },
+  {
+    "name": "Dr. Hayat Ullah",
+    "department": "Arabic",
+    "designation": "Lecturer + Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/44e1c997a6dfac9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/480"
+  },
+  {
+    "name": "Dr. Syed Yasir Ali",
+    "department": "Arabic",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a614356c62507ce.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/473"
+  },
+  {
+    "name": "Dr. Sana Ayesha Khan",
+    "department": "Arabic",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2a64aad087501b2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/485"
+  },
+  {
+    "name": "Dr. Muhammad Fakhar Moeen",
+    "department": "Arabic",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/274067af92b49e9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/471"
+  },
+  {
+    "name": "Muhammad Waseem",
+    "department": "Arabic",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5ff26e7659b09a3.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/475"
+  },
+  {
+    "name": "Dr. Zafar Naveed",
+    "department": "Chinese",
+    "designation": "HOD",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6651f84a74d917f.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/191"
+  },
+  {
+    "name": "Dr. AFTAB AZEEM",
+    "department": "Chinese",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/eaf0b0edfa242b2.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/190"
+  },
+  {
+    "name": "Misbah Rashid Janjua",
+    "department": "Chinese",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c0e0cca67f78abc.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/206"
+  },
+  {
+    "name": "Dr. Qutab Ali",
+    "department": "Chinese",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c0bb209b67d6060.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1316"
+  },
+  {
+    "name": "Dr. Sadaf Jabbar",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/93658131b4e37e3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/214"
+  },
+  {
+    "name": "Rashida Mustafa",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/61637463289e873.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/212"
+  },
+  {
+    "name": "Aziz-Ur-Rehman",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a2d0b73b1fbf2a5.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/219"
+  },
+  {
+    "name": "Sabiha Haseeb",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/884adbb0542516b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1315"
+  },
+  {
+    "name": "Humaira Sabir",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/af4aed0fc50019c.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/215"
+  },
+  {
+    "name": "Zhong Yuan Wendy",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0932d3a02a50c21.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1519"
+  },
+  {
+    "name": "Ali Raza",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/405bccee1eb9a14.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1520"
+  },
+  {
+    "name": "Tahira Naveed",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b131381fbf57423.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/198"
+  },
+  {
+    "name": "Sadia Parveen",
+    "department": "Chinese",
+    "designation": "SENIOR INSTRUCTOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/056f421c76eb5fd.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/205"
+  },
+  {
+    "name": "Sajid Hussain",
+    "department": "Chinese",
+    "designation": "Lecturer/Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f20fac4e647fd07.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/767"
+  },
+  {
+    "name": "Jia Zhenghua",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b4883f11da9be53.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/200"
+  },
+  {
+    "name": "Zheng Lifang",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f9824a678c5d7de.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/213"
+  },
+  {
+    "name": "Hafsa Azam",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c61b76c2774009f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/204"
+  },
+  {
+    "name": "Muhammad Suleman Qureshi",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/91df0993dbde6a3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1518"
+  },
+  {
+    "name": "Ardiyani Rahmi Widodo",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e9992a927109ab6.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/768"
+  },
+  {
+    "name": "Nayyar Nawaz",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b494a2822f404b5.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/217"
+  },
+  {
+    "name": "Jiao Tiantain",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a1ba9bb97d77830.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/192"
+  },
+  {
+    "name": "Sidra Tanvir",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2e36029da67f963.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1314"
+  },
+  {
+    "name": "Ayman Zahara",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e97664c2a6b222c.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/210"
+  },
+  {
+    "name": "Waseel Sarwar Abbasi",
+    "department": "Chinese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e2bea95e8918a41.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1312"
+  },
+  {
+    "name": "Ms. Motia Zaman",
+    "department": "Chinese",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/802443e3e33c544.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1364"
+  },
+  {
+    "name": "Basit Qureshi",
+    "department": "Chinese",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4ef054e2bc19c74.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1318"
+  },
+  {
+    "name": "Ms. Sharmeen Ehtasham",
+    "department": "Chinese",
+    "designation": "Visiting Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/269e24ad0f1e0c2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1362"
+  },
+  {
+    "name": "Zafar Iqbal",
+    "department": "Chinese",
+    "designation": "LDC",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/201ea52fd5452b2.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/253"
+  },
+  {
+    "name": "Dr. Hazrat Umar",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Head of the  Department (Associate Professor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/523743fa9339af7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1748"
+  },
+  {
+    "name": "Mr. Bashir Ahmed",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Coordinator (Morning) Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7b909de0c1db758.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1124"
+  },
+  {
+    "name": "Ms. Najma Qayyum",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/54151815e17fd18.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/356"
+  },
+  {
+    "name": "Bushra Altaf",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Coordinator (Afternoon) Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/eae02f839410588.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/377"
+  },
+  {
+    "name": "Dr. Ahmar Jahanzeb",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/629ae108bb4b69d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1129"
+  },
+  {
+    "name": "Ms. Ursula Bottrall",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7f596f30d23f315.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/752"
+  },
+  {
+    "name": "Ms. Ruth Dickenson",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cafe226ef1b46c9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/754"
+  },
+  {
+    "name": "Dr. Hamid Naveed",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4f7a59cfb36d6a7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/359"
+  },
+  {
+    "name": "Ms. Nighat Faheem",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/548821423d7ea3b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1103"
+  },
+  {
+    "name": "Ms. Farhat Jabeen",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6f3cb339cc28117.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/357"
+  },
+  {
+    "name": "Ms.Fatima Hussain",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0202e3d34371213.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1125"
+  },
+  {
+    "name": "Tabinda Amjad",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/706c03c5ead66e7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/376"
+  },
+  {
+    "name": "Ms. Saba Shafique",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0a30985f1712c25.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1117"
+  },
+  {
+    "name": "Ms. Bushra Mahar",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4223251d5c57f60.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/390"
+  },
+  {
+    "name": "Mr. Ahmed Mehmood Sipra",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (Evening)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ac668ab8f9b2dd4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/392"
+  },
+  {
+    "name": "Ms. Aaminah Hassan",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer(BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b37dcb1bfbfc10c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1435"
+  },
+  {
+    "name": "Taimur Malik",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5bced41923ea088.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1121"
+  },
+  {
+    "name": "Afsheen Kashifa",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer/Chairperson NUML's Debating Society",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d1200662cd70b3e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/379"
+  },
+  {
+    "name": "Mr. Asif Rasool",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8f73d7446c986b9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1436"
+  },
+  {
+    "name": "Mr. Aqleem Ejaz",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer, Coordinator (Afternoon)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/24bcd3c48bf5282.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/755"
+  },
+  {
+    "name": "Mr. Gohar Ali",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/717125f4c4f4450.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/380"
+  },
+  {
+    "name": "Saira Rahman",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer ( Evening)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/eaf2c88c0884f58.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/385"
+  },
+  {
+    "name": "Uzma Riasat",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/12d6daa367c8524.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1122"
+  },
+  {
+    "name": "Ms. Adeela Musadar",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer, Coordinator (Morning)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4ebc04777af572f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/751"
+  },
+  {
+    "name": "Mr. Abwab Ali",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1cb86e3f9eaff17.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1130"
+  },
+  {
+    "name": "Ms. Mehrosh Azeem",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0b49789393abd22.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1128"
+  },
+  {
+    "name": "Saood Khan",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/88803a0a46a0b57.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1444"
+  },
+  {
+    "name": "Ms. Aatika Rub Nawaz",
+    "department": "English Language Teaching (ELT)",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2173dfc7c270509.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1118"
+  },
+  {
+    "name": "Sameena Aslam",
+    "department": "French",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a59214a7935a1cd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/66"
+  },
+  {
+    "name": "Humaira Sadaf",
+    "department": "French",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1b78967b76ecd5e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/59"
+  },
+  {
+    "name": "Dr. Amina Niazi",
+    "department": "French",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/65"
+  },
+  {
+    "name": "Dr. Zill e Zehra",
+    "department": "French",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1544"
+  },
+  {
+    "name": "Hassan Fayyaz",
+    "department": "French",
+    "designation": "Lecturer on contract",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/999b3bb4948f3ad.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/64"
+  },
+  {
+    "name": "Afia Taskeen",
+    "department": "French",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/92d8aba4e41f250.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/61"
+  },
+  {
+    "name": "Kaynat Rashid",
+    "department": "French",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4fbae856928c784.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/58"
+  },
+  {
+    "name": "Ms. Sahar Afrin",
+    "department": "German",
+    "designation": "Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/04bc4733ac06855.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/524"
+  },
+  {
+    "name": "Ms. Naureen Fraz Rawat",
+    "department": "German",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/770b99b7edfc46c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/525"
+  },
+  {
+    "name": "Mr. Muhammad Munawar",
+    "department": "German",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/98e0f99177ba0e8.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/544"
+  },
+  {
+    "name": "Mr. Farrukh Ishfaq",
+    "department": "German",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a49182ecb0be255.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/527"
+  },
+  {
+    "name": "Mr. Muhammad Asim",
+    "department": "German",
+    "designation": "Senior Instructor (Coordinator)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a739c6f8d637db9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/523"
+  },
+  {
+    "name": "Ms. Afia Qazi",
+    "department": "German",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2e0265356bf1609.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/582"
+  },
+  {
+    "name": "Ms. Alishba Noor ul Huda",
+    "department": "German",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6504850d7bc45d5.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/546"
+  },
+  {
+    "name": "Dr. Javeria Fazal",
+    "department": "Italian",
+    "designation": "S. Instructor ( Coordinator)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1bff633398b26e7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1653"
+  },
+  {
+    "name": "Ms. Anna Maria Amico Roxas",
+    "department": "Italian",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9ecbb7f0b4a7830.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1654"
+  },
+  {
+    "name": "Mr. Manzoor Masih",
+    "department": "Italian",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e616a8e789993e5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1655"
+  },
+  {
+    "name": "Sharif Ahmed",
+    "department": "Japanese",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e5c19c9aac58c68.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1039"
+  },
+  {
+    "name": "Rafia Fatima",
+    "department": "Japanese",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f7d0c8f82d28804.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1040"
+  },
+  {
+    "name": "Seigo Nishioka",
+    "department": "Japanese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5b7dae435029551.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1350"
+  },
+  {
+    "name": "Foha Syed",
+    "department": "Japanese",
+    "designation": "Senior Instructor/Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e3654e0051ad835.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1785"
+  },
+  {
+    "name": "Minato Watanabe",
+    "department": "Japanese",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/18ded12975f8430.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1784"
+  },
+  {
+    "name": "Syeda Masooma Hassan",
+    "department": "Japanese",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/36780b9a3566c39.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1957"
+  },
+  {
+    "name": "Dr. Atif Faraz",
+    "department": "Korean Language & Culture",
+    "designation": "HOD / Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/befcc39e7b49b25.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/318"
+  },
+  {
+    "name": "Ahtisham Hussain",
+    "department": "Korean Language & Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c91d7edc1b775fc.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/320"
+  },
+  {
+    "name": "Mehmoona Tahira",
+    "department": "Korean Language & Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/56ee6f749943bcf.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/321"
+  },
+  {
+    "name": "Aamir Ali",
+    "department": "Korean Language & Culture",
+    "designation": "Coordinator / Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d6969b7aaa50f3f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/322"
+  },
+  {
+    "name": "Eunsook Jang",
+    "department": "Korean Language & Culture",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2e836e101c0a750.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1534"
+  },
+  {
+    "name": "Rabia Zaib",
+    "department": "Korean Language & Culture",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/820029ed45116e9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1625"
+  },
+  {
+    "name": "Ali Hasnain",
+    "department": "Korean Language & Culture",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e773d998091c56c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1746"
+  },
+  {
+    "name": "Nadia Perveen",
+    "department": "Korean Language & Culture",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a5b20ea968ae825.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1747"
+  },
+  {
+    "name": "Ms. Qudisa Akram",
+    "department": "Korean Language & Culture",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a6740527ef759e2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1917"
+  },
+  {
+    "name": "Dr. Muhammad Farooq Anjum",
+    "department": "Pakistani Languages",
+    "designation": "Assistant Professor (Pashto)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a2a016732effbb7.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/325"
+  },
+  {
+    "name": "Chiragh Wadar",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Balochi)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/95e2c7c3aba962d.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1330"
+  },
+  {
+    "name": "Dr. Abdul Rouf",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Punjabi)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/98dad1ce9ce5656.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/310"
+  },
+  {
+    "name": "Qaiser Zaman",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Punjabi)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/67a1d8c52376577.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/309"
+  },
+  {
+    "name": "Dr Farkhinda Jabeen",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Pashto)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e22819dc49aa5f5.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/642"
+  },
+  {
+    "name": "Abdul Raziq",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Balochi)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/15440729bf0637b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/644"
+  },
+  {
+    "name": "Nasir Ali",
+    "department": "Pakistani Languages",
+    "designation": "Senior-Instructor (Balochi)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d93dbe45b03f462.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/645"
+  },
+  {
+    "name": "Hafeez Ur Rehman",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Pashto)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/42c10b2c2bab12c.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1326"
+  },
+  {
+    "name": "Muhammad Imran",
+    "department": "Pakistani Languages",
+    "designation": "Senior-Instructor (Brahui)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f8bf0e86b5fb855.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1327"
+  },
+  {
+    "name": "Dr Hafeez Ullah Sarparra",
+    "department": "Pakistani Languages",
+    "designation": "Lecturer (Brahui)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7cc554dea8b3fe3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1377"
+  },
+  {
+    "name": "Muhammmad Younas Khan",
+    "department": "Pakistani Languages",
+    "designation": "Senior Instructor (Pashto)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/019279551fef799.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1365"
+  },
+  {
+    "name": "Dr.Shagufta Yaseen Abbasi",
+    "department": "Persian",
+    "designation": "Head of Department /Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dc39df49e91f72d.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/267"
+  },
+  {
+    "name": "Dr. Amber Yasmin",
+    "department": "Persian",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/be3159733935be0.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/266"
+  },
+  {
+    "name": "Dr.Muhammad Fayyaz.",
+    "department": "Persian",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1e5177d2d2b0727.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/264"
+  },
+  {
+    "name": "Dr. Muhammad Safeer",
+    "department": "Persian",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ed41d6a82405c35.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/249"
+  },
+  {
+    "name": "Dr. Humaira Shahbaz",
+    "department": "Persian",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/30744c688af8259.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/265"
+  },
+  {
+    "name": "Mrs. Razia Akbar",
+    "department": "Persian",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/869"
+  },
+  {
+    "name": "Mr. Muhammad Fiaz Satti",
+    "department": "Persian",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c3d15396061721a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/268"
+  },
+  {
+    "name": "Dr. Asim Javaid",
+    "department": "Persian",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ca4ba9fa55a8601.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1367"
+  },
+  {
+    "name": "Dr Asma Naveed",
+    "department": "Russian",
+    "designation": "Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f234368bb6e3449.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/272"
+  },
+  {
+    "name": "Saniya Iskanova",
+    "department": "Russian",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/62ec905b03f1efa.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/324"
+  },
+  {
+    "name": "Yevgeniya Buch",
+    "department": "Russian",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7f141c4fd885681.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/271"
+  },
+  {
+    "name": "Elena Sumina",
+    "department": "Russian",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ea9766dfad7308a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/270"
+  },
+  {
+    "name": "Mahfuza Hasanova",
+    "department": "Russian",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3693bce1232e405.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/540"
+  },
+  {
+    "name": "Sergey Starkov",
+    "department": "Russian",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0052df8d2e20117.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1899"
+  },
+  {
+    "name": "Mrs Shahin Zafar",
+    "department": "South Asian Languages",
+    "designation": "HOD/ Assistant Professor (Hindi Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4b573c1c3ee1174.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/313"
+  },
+  {
+    "name": "Mrs Dr Naseema khatoon",
+    "department": "South Asian Languages",
+    "designation": "Visiting Professor (Hindi Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ea78e92f8ff879a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/314"
+  },
+  {
+    "name": "Mrs Zubaida Hassan",
+    "department": "South Asian Languages",
+    "designation": "Instructor (Hindi Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ec37600edc980a6.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/529"
+  },
+  {
+    "name": "Mrs Baby Naz",
+    "department": "South Asian Languages",
+    "designation": "Visiting Instructor (Hindi Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/69bfe41390f7f5e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1331"
+  },
+  {
+    "name": "Ms Farah Mayuni",
+    "department": "South Asian Languages",
+    "designation": "Lecturer (Bahasa Indonesia Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/23d8c3a75153856.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/531"
+  },
+  {
+    "name": "Ms Asma Bintu Mujahid",
+    "department": "South Asian Languages",
+    "designation": "Lecturer (Bahsa Indonesia Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8ff50afd33d477e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/532"
+  },
+  {
+    "name": "Ms. Rumaiya Jasmin Fatima",
+    "department": "South Asian Languages",
+    "designation": "Visiting Lecturer (Bangla Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e12e91502730811.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/530"
+  },
+  {
+    "name": "ColKamal uddin",
+    "department": "South Asian Languages",
+    "designation": "Lecturer (Bangla Department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f622c97a02b7207.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1332"
+  },
+  {
+    "name": "Shireen Fatima",
+    "department": "Spanish",
+    "designation": "Senior Instructor & Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d83406d9c0d16ed.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/340"
+  },
+  {
+    "name": "Silvia Bertha",
+    "department": "Spanish",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/84132c4594bc3de.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/341"
+  },
+  {
+    "name": "Silvia Veronica Vega",
+    "department": "Spanish",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a4550255994d4f4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1135"
+  },
+  {
+    "name": "Aaqib Tanveer",
+    "department": "Spanish",
+    "designation": "Instructor (Visiting)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d9492223d2c65e7.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1136"
+  },
+  {
+    "name": "Micah Pascual",
+    "department": "Spanish",
+    "designation": "Instructor (Visiting)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9dfe1ef9f9d57e7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1310"
+  },
+  {
+    "name": "Claudia Percastre",
+    "department": "Spanish",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dcaf31ac6a4226e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1530"
+  },
+  {
+    "name": "Gulnaz Begum",
+    "department": "Translation & Interpretation",
+    "designation": "Lecturer in English",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a17ada8876f18cb.PNG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/981"
+  },
+  {
+    "name": "Dr. Ilyas Babar Awan",
+    "department": "Translation & Interpretation",
+    "designation": "Assistant Professor of English",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/32ee012e6c94ecc.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/727"
+  },
+  {
+    "name": "Nosheen Irshad",
+    "department": "Translation & Interpretation",
+    "designation": "Lecturer in English",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/634149a83191171.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/733"
+  },
+  {
+    "name": "Akhtar Ali",
+    "department": "Translation & Interpretation",
+    "designation": "Lecturer in English",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b03dfe8b30accab.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1322"
+  },
+  {
+    "name": "Ursache Oana",
+    "department": "Translation & Interpretation",
+    "designation": "Visiting Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c13d8d31648781c.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1906"
+  },
+  {
+    "name": "M. Safir Siddiqui",
+    "department": "Translation & Interpretation",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8eccac84605db07.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1932"
+  },
+  {
+    "name": "Fatima Kubra",
+    "department": "Translation & Interpretation",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/76508c19d0dd6ac.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1945"
+  },
+  {
+    "name": "Esha Mehmood",
+    "department": "Translation & Interpretation",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1947"
+  },
+  {
+    "name": "Ms. Sema Deniz Ercan",
+    "department": "Turkish Studies",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4798c5350aca517.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/566"
+  },
+  {
+    "name": "Nur Yasemin  Rahoojo",
+    "department": "Turkish Studies",
+    "designation": "HoD Turkish Studies",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7a91a054f52a9e3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/408"
+  },
+  {
+    "name": "Shaista Hameed Malik",
+    "department": "Turkish Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5348798416445ae.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/409"
+  },
+  {
+    "name": "Ms. Arifa Zardad",
+    "department": "Turkish Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/48e39fa7052cc74.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/815"
+  },
+  {
+    "name": "Ihsan Firozodin",
+    "department": "Turkish Studies",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0bf1763937ae92a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/816"
+  },
+  {
+    "name": "Ms. Gulsen Kocak Demir",
+    "department": "Turkish Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5a0ef34f6062b08.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1509"
+  },
+  {
+    "name": "Mr. Sana Ullah Khan",
+    "department": "Turkish Studies",
+    "designation": "Snr Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2f0bafb07c6fd3e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1510"
+  },
+  {
+    "name": "Ms. Ayesha Amin",
+    "department": "Turkish Studies",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e5f229d13151594.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1511"
+  },
+  {
+    "name": "Mr. Muhammad Luqman",
+    "department": "Turkish Studies",
+    "designation": "Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c792fbeb4b4d1eb.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1699"
+  },
+  {
+    "name": "Dr. Ambreen Tabassum",
+    "department": "Urdu",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/02e5ca80e2f8805.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/244"
+  },
+  {
+    "name": "Prof. Dr. Fouzia Aslam",
+    "department": "Urdu",
+    "designation": "Professor/ Chairperson",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f6d715145a56ee0.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/241"
+  },
+  {
+    "name": "Dr. Naeem Mazhar",
+    "department": "Urdu",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e882e0f7f858c7c.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/262"
+  },
+  {
+    "name": "Dr. Abid Hussain",
+    "department": "Urdu",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c33629445d86e23.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/263"
+  },
+  {
+    "name": "Dr. Muhammad Shafique Anjum",
+    "department": "Urdu",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/191262498af84b5.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/73"
+  },
+  {
+    "name": "Dr. Saima Nazir",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/13c5f198805c4c4.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/246"
+  },
+  {
+    "name": "Dr. Rukhshanda Murad",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6822c4a5ffe81c1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/258"
+  },
+  {
+    "name": "Dr. Sobia Saleem",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e534cdf5f9aa94f.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/254"
+  },
+  {
+    "name": "Dr. Zafar Ahmed",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c7e8e67d5a05859.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/242"
+  },
+  {
+    "name": "Dr. Nazia Malik",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0cd779bb9823f14.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/259"
+  },
+  {
+    "name": "Dr. Nazia Younis",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/142d3218a72cd38.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/255"
+  },
+  {
+    "name": "Dr. Samina Siddiqui",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7f98160892a3230.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/251"
+  },
+  {
+    "name": "Dr. Nadia Ashraf",
+    "department": "Urdu",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cc656c86619fbc1.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/248"
+  },
+  {
+    "name": "Ms. Anjum Mobeen",
+    "department": "Urdu",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e8d175b6b18ceb4.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/250"
+  },
+  {
+    "name": "Dr. Mahmood ul Hassan Rana",
+    "department": "Urdu",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/69af03f1aa84ff4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/260"
+  },
+  {
+    "name": "Dr. Snobar Altaf",
+    "department": "Urdu",
+    "designation": "Lecturer Contract",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/948b00ea1a8a1e4.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/247"
+  },
+  {
+    "name": "Dr. Abu Bakar Saddique Rathore",
+    "department": "Urdu",
+    "designation": "Lecturer Contract",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/163ad126f81687f.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/257"
+  },
+  {
+    "name": "Mr. Arshad Mahmood Haadi",
+    "department": "Urdu",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a16ca6720d71e0f.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1217"
+  },
+  {
+    "name": "Dr. Muhammad Umar Farooq Sial",
+    "department": "Urdu",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f493f614453855c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1308"
+  },
+  {
+    "name": "Muhammad Azam",
+    "department": "Urdu",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/eddb19d850688d9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1360"
+  },
+  {
+    "name": "Dr. Irshad Begum",
+    "department": "Urdu",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/87281a9cebb93b3.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/261"
+  },
+  {
+    "name": "Dr. Usman Ghani",
+    "department": "Urdu",
+    "designation": "Senior Instructor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/eb7b2273ad3a1e0.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/256"
+  },
+  {
+    "name": "Dr Abdul Wahid",
+    "department": "Accounting and Finance",
+    "designation": "HOD/ Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/413eaa32b09f308.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1531"
+  },
+  {
+    "name": "Dr. Fauzia Mubarik",
+    "department": "Accounting and Finance",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a81065b840f9850.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1057"
+  },
+  {
+    "name": "Dr. Afsheen Abrar",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor & HEC Approved Supervisor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d00213f77248f10.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1058"
+  },
+  {
+    "name": "Dr. Shehla Akhtar",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f13fb2a8f66d661.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1059"
+  },
+  {
+    "name": "Dr.  Fatima Shamim",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer & Program Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6189472bd097c7d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1077"
+  },
+  {
+    "name": "Ms. Iram Iqbal Qazi",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/812b53282e240e1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1060"
+  },
+  {
+    "name": "Ms Benish Javed",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3c61a53c619340b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1064"
+  },
+  {
+    "name": "Dr. Muhammad Mansoor Ali",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dff02ceda3d8782.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1489"
+  },
+  {
+    "name": "Dr. Sadia Saeed",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a593b3761943dd4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1061"
+  },
+  {
+    "name": "Dr. Muhammad Farhan",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4f49d192691e4f6.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1062"
+  },
+  {
+    "name": "Dr. Naila Rafiq",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor (Mathematics)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b23b476a379f6c2.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1829"
+  },
+  {
+    "name": "Dr. Sobia Rashid",
+    "department": "Accounting and Finance",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/724ed8bced07ce2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1063"
+  },
+  {
+    "name": "Dr. Sidra Swati",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7e9e0b91c2e5c88.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1072"
+  },
+  {
+    "name": "Dr. Imad Rahim",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/78518454e02cf98.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1071"
+  },
+  {
+    "name": "Dr. Shomaila Habib",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f133cc1f29af2e7.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1858"
+  },
+  {
+    "name": "Ms. Amna Saleh",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/92514b577e2de0e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1076"
+  },
+  {
+    "name": "Mr. Muhammad Irfan Afzal",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/35905a5580ef1b2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1074"
+  },
+  {
+    "name": "Mr. Osama Hayat",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/64d05af92eb73da.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1073"
+  },
+  {
+    "name": "Mr. Asad Yaqub",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/45fded3e9381805.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1068"
+  },
+  {
+    "name": "Ms. Uzma Azam",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/038fb0984e845ad.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1065"
+  },
+  {
+    "name": "Ali Imran Sheikh",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/02eca1691afb23f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1626"
+  },
+  {
+    "name": "Mr. Farrukh Abbas",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3b340af3f65da75.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1069"
+  },
+  {
+    "name": "Mr. Asad Ur Rehman",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/54fd65b058773ca.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1303"
+  },
+  {
+    "name": "Ms. Habiba Mustafa",
+    "department": "Accounting and Finance",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0d2fdf194db9dc6.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1863"
+  },
+  {
+    "name": "Dr Fareeha Riaz",
+    "department": "Economics",
+    "designation": "Assistant Professor/Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/327b2810d0f4869.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1381"
+  },
+  {
+    "name": "Azra Nasir",
+    "department": "Economics",
+    "designation": "Assistant Professor/Undergraduate Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6ea3a1a4f03db88.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/129"
+  },
+  {
+    "name": "Dr. Saima Shafique",
+    "department": "Economics",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fb457a4cf9e1d24.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/122"
+  },
+  {
+    "name": "Dr Hidayat Ullah Khan",
+    "department": "Economics",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8575a7297c3d697.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/866"
+  },
+  {
+    "name": "Dr Amtul Hafeez Gondal",
+    "department": "Economics",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ef1cfd805e7ab40.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/124"
+  },
+  {
+    "name": "Dr. Sabahat Subhan",
+    "department": "Economics",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/285f478f661210e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/123"
+  },
+  {
+    "name": "Dr Malik Saqib Ali",
+    "department": "Economics",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/30b5bb5b1f836bb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/126"
+  },
+  {
+    "name": "Dr Noor Fatima",
+    "department": "Economics",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d58f54ff754c1d3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/127"
+  },
+  {
+    "name": "Dr Shafqut Ullah",
+    "department": "Economics",
+    "designation": "Assistant Professor/Coordinator Higher Studies",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ceb18364c10a6f4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/135"
+  },
+  {
+    "name": "Dr Hummera Saleem",
+    "department": "Economics",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f9115c419637b3f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/533"
+  },
+  {
+    "name": "Dr Samina Farooq",
+    "department": "Economics",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2737ad68a2b8c3c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/575"
+  },
+  {
+    "name": "Shabana Kauser",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c6589704e70a8c3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/132"
+  },
+  {
+    "name": "Saba Bukhari",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9975a6c8a426942.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/133"
+  },
+  {
+    "name": "Muhammad Haroon",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/307bdf8398c977a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/136"
+  },
+  {
+    "name": "Sana Zaigham",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6a0363c3a852bc9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/776"
+  },
+  {
+    "name": "Dr. Javed Anwar",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/da4cc675fbdf293.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/968"
+  },
+  {
+    "name": "Ayesha Khalid",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e7c363c6c2bce89.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/969"
+  },
+  {
+    "name": "Rubiya Khalid",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/caa27b8a96f919e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/970"
+  },
+  {
+    "name": "Zainab Zeeshan",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4d770022b692228.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1354"
+  },
+  {
+    "name": "Uzaima Qarni",
+    "department": "Economics",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/92bc059833417ee.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1355"
+  },
+  {
+    "name": "Dr. Faid Gul",
+    "department": "Management Science",
+    "designation": "Professor, Dean FMS",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/24d0830db6aa345.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/224"
+  },
+  {
+    "name": "Dr. Aijaz Mustafa Hashmi",
+    "department": "Management Science",
+    "designation": "Associate Professor/Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5d00d8051d56c7e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/300"
+  },
+  {
+    "name": "Dr. Nadeem Talib",
+    "department": "Management Science",
+    "designation": "Professor - Director Adacemics",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/168e3e9270ae481.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1819"
+  },
+  {
+    "name": "Professor Dr. Naveed Akhtar",
+    "department": "Management Science",
+    "designation": "Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ae1b01272b3f5ca.jfif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1820"
+  },
+  {
+    "name": "Dr. Muhammad Zahid Iqbal",
+    "department": "Management Science",
+    "designation": "Professor - Director ORIC",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c2b078ed36edfbf.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/975"
+  },
+  {
+    "name": "Dr. Hina Shahab",
+    "department": "Management Science",
+    "designation": "ASSOCIATE PROFESSOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d9f11f8844e1f03.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/800"
+  },
+  {
+    "name": "Malik Mazhar Hussain",
+    "department": "Management Science",
+    "designation": "Lecturer/ Program Coordinator BBA/MBA/Weekend",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/315dcc548a4875c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/362"
+  },
+  {
+    "name": "Tayyab Ali Baig",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7d358204c87a371.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1329"
+  },
+  {
+    "name": "Dr.Muhammad Haroon",
+    "department": "Management Science",
+    "designation": "Assistant Professor & Incharge International & National Research Conferences",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3b1cd7b23829280.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/402"
+  },
+  {
+    "name": "Dr. Nisbat Ali Malik",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/603e2e4691c5ca9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/323"
+  },
+  {
+    "name": "Dr. Ishtiaq Ahmad",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e63306a661dbe4d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/415"
+  },
+  {
+    "name": "Dr. Syed Zaheer Abbas Kazmi",
+    "department": "Management Science",
+    "designation": "ASSISTANT PROFESSOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/25ddd734c1f666e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/803"
+  },
+  {
+    "name": "Dr. AKHTAR TANWEER",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2a06535bd46098e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/367"
+  },
+  {
+    "name": "Dr. Hafsah Zahur",
+    "department": "Management Science",
+    "designation": "ASSISTANT PROFESSOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fd7033d8cea7f4a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/811"
+  },
+  {
+    "name": "Shizra Khan",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1392"
+  },
+  {
+    "name": "Jawad Javaid",
+    "department": "Management Science",
+    "designation": "ASSISTANT PROFESSOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/59f47417cd8ee02.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/807"
+  },
+  {
+    "name": "Shafi Ullah Khan",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8072829282b582b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1818"
+  },
+  {
+    "name": "Sobia Perveen",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c8345b8de4a02cb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/311"
+  },
+  {
+    "name": "Syed Ali Azfer",
+    "department": "Management Science",
+    "designation": "ASSISTANT PROFESSOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3a2afdf559069f5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/821"
+  },
+  {
+    "name": "Muhammad Fahad Muqaddas",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b2ef137da6b488c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/221"
+  },
+  {
+    "name": "Dr. HIna Rehman",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e47ee9764eb3f65.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/822"
+  },
+  {
+    "name": "Adnan Ali Khan",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4ca7b82a12374e9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/306"
+  },
+  {
+    "name": "Ghulam Asghar",
+    "department": "Management Science",
+    "designation": "ASSISTANT PROFESSOR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bd52f9b8c568ddd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/808"
+  },
+  {
+    "name": "Ms. Irum Jabeen",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/60754e80bc775f6.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/299"
+  },
+  {
+    "name": "Noureen Akhtar",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/29ab535e9e22624.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/809"
+  },
+  {
+    "name": "Adnan Iftikhar",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c3616d32d71eebd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/792"
+  },
+  {
+    "name": "Dr. Sarah Imran",
+    "department": "Management Science",
+    "designation": "Assistant Professor & In-Charge CSR Society",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1183a79ce9eadc8.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/279"
+  },
+  {
+    "name": "Warda Ghafoor",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7407875c8eabf01.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/819"
+  },
+  {
+    "name": "Javeria Hassan Khan",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/454ce016b391c37.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/818"
+  },
+  {
+    "name": "Dr. Sabtain Fida",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/32186fb7df0b0c8.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/286"
+  },
+  {
+    "name": "Aliya Jalil",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/29df39cd844c57b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/292"
+  },
+  {
+    "name": "Dr. Farhina Hameed",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/71718a00bf73903.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/780"
+  },
+  {
+    "name": "Muhammad Irshad",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/27b4708e8221110.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/810"
+  },
+  {
+    "name": "Dr.Nosheen",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b265a2846c223ad.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/826"
+  },
+  {
+    "name": "Abdul Rehman",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c64d7d5ae5dcd53.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/839"
+  },
+  {
+    "name": "Ammara Umar",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fb3033fd954bd3e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/841"
+  },
+  {
+    "name": "Tehmina Qamar",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6000c5308b79d3a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/842"
+  },
+  {
+    "name": "Ramsha Zakariya",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/82966c3a2fcf38f.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/977"
+  },
+  {
+    "name": "Ayesha Shafique",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e1c96a216c523b9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/978"
+  },
+  {
+    "name": "Dr. Ali Burhan Khan",
+    "department": "Management Science",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f92609f933bc686.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/979"
+  },
+  {
+    "name": "Shazia Perveen",
+    "department": "Management Science",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/303fa439f1edbbc.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/976"
+  },
+  {
+    "name": "Prof.Dr. M. Anis ul Haque",
+    "department": "Applied Psychology",
+    "designation": "Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cf53109da1f0682.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/273"
+  },
+  {
+    "name": "Dr. Tasnim Rehna",
+    "department": "Applied Psychology",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bfd17b8cb571fb0.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/275"
+  },
+  {
+    "name": "Dr. Ulfat Nisa",
+    "department": "Applied Psychology",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c75e29680597633.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1678"
+  },
+  {
+    "name": "Dr. Asia Mushtaq",
+    "department": "Applied Psychology",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/276"
+  },
+  {
+    "name": "Tayyaba Safdar",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/692feae6b2a55a4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/277"
+  },
+  {
+    "name": "Dr. Naureen Azad",
+    "department": "Applied Psychology",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c1a1916da3619af.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/482"
+  },
+  {
+    "name": "Dr. Ammar Ahmed",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dc7c0f589f9a58e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1682"
+  },
+  {
+    "name": "Kashmala Zaman",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1679"
+  },
+  {
+    "name": "Faiza Batool",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1b2ca87993a8842.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/282"
+  },
+  {
+    "name": "Iqra Tariq",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e556e8ee28e4ad5.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1684"
+  },
+  {
+    "name": "Nayyab Khan",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bb82fa2f93fabcf.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1953"
+  },
+  {
+    "name": "Hina Zahra",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5d8679b4b87ffb6.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1744"
+  },
+  {
+    "name": "Tehmeena Hanif",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1680"
+  },
+  {
+    "name": "Humama Sajjad",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1949"
+  },
+  {
+    "name": "Rubab Hassan",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/afc3a1cc44f540b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1848"
+  },
+  {
+    "name": "Syeda Batool Baqir",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1688"
+  },
+  {
+    "name": "Ayesha Arooj",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1954"
+  },
+  {
+    "name": "Aliya Imtiaz",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1677"
+  },
+  {
+    "name": "Danyal Wahid",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bf5cec1ceae276c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1942"
+  },
+  {
+    "name": "Qubsha Munir",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c4ed079eb5818a2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1956"
+  },
+  {
+    "name": "Saadat Ullah",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1685"
+  },
+  {
+    "name": "Aqsa Shahid",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1686"
+  },
+  {
+    "name": "Kiran Naz Malik",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1687"
+  },
+  {
+    "name": "Nimrah Naseem",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d80f076c559e0f3.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1943"
+  },
+  {
+    "name": "Muhammad Naveed Bilal",
+    "department": "Applied Psychology",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c940b4fb3c3b017.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1950"
+  },
+  {
+    "name": "Dr Khushbakht Hina",
+    "department": "Educational Sciences",
+    "designation": "Associate Professor ( Head of department)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fd72d1fbdaa2fc5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1225"
+  },
+  {
+    "name": "Dr. Marium Din",
+    "department": "Educational Sciences",
+    "designation": "Assistant professor/ HEC Approved Supervisor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f03c2bc0a6816dd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1028"
+  },
+  {
+    "name": "Dr.Shazia Zamir",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3bc520e6eb7f197.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1029"
+  },
+  {
+    "name": "Dr. Qurat-ul-Ain Hina",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/678a1e0d2cafe31.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1030"
+  },
+  {
+    "name": "Dr. Samra Afzal",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (HEC Approved Supervisor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d7af52fbb7d6272.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1031"
+  },
+  {
+    "name": "Dr. Farkhanda Tabassum",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (Contract)/ HEC Approved Supervisor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c1c1cd0304b9aca.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1037"
+  },
+  {
+    "name": "Dr. Aisha Bibi",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (TTS)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e500e41bb03d85c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1038"
+  },
+  {
+    "name": "Dr. Jamila Begum",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (Contract)/ HEC Approved Supervisor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6a25e355962e896.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1043"
+  },
+  {
+    "name": "Ms Sundas Kashmeeri",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/62d7f9093fa4595.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1044"
+  },
+  {
+    "name": "Ms Rakhshanda Hashmi",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/363ccb1820ce4fc.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1045"
+  },
+  {
+    "name": "Ms Rubana Saeed",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (BPS-18)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bf384c4d1cabd1f.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1046"
+  },
+  {
+    "name": "Ms Uzma Yaqoob Khawaja",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4ac1dccff469358.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1047"
+  },
+  {
+    "name": "Ms Mehwish Pervaiz",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8bfd839079c0c50.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/677"
+  },
+  {
+    "name": "Dr Uzma Mazhar",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3af473725045a2b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1048"
+  },
+  {
+    "name": "Ms Beenish Imtiaz",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/505b0155b8c0b56.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1049"
+  },
+  {
+    "name": "Dr. Shahid Alam Awan",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/53fd485278edaa6.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1050"
+  },
+  {
+    "name": "Ms Hina Shaukat",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract) & Additional Coordinator undergraduate programs",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8309cdbe3bd0854.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1153"
+  },
+  {
+    "name": "Dr Nabeela Shakur",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ef61fcc385e2862.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1154"
+  },
+  {
+    "name": "Ms Aleena Chaudary",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ea1f26960970f99.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1155"
+  },
+  {
+    "name": "Ms Sumbal Kaynat",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f728b8f6e3399cd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1157"
+  },
+  {
+    "name": "Mr. Liaqat Ali",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3283fd175016bc6.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1296"
+  },
+  {
+    "name": "Mr. Moheb Ullah",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cb87d3bca81e1ab.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1297"
+  },
+  {
+    "name": "Dr Romal Qadir",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (Contract) & Post Graduate programs Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/701be3d304751ca.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1158"
+  },
+  {
+    "name": "Dr. Saira Akhtar",
+    "department": "Educational Sciences",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ec4aa06906a90c9.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1343"
+  },
+  {
+    "name": "Mr. Muhammad Rizwan Nawaz",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fa2d5b0b010e97c.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1472"
+  },
+  {
+    "name": "Ms Noreen Idrees",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/13676f7133d3980.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1298"
+  },
+  {
+    "name": "Dr Sehrish Kashan",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/faadd3e8adf3aad.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1652"
+  },
+  {
+    "name": "Ms Amna Afzal",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5a7d034aac83257.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1698"
+  },
+  {
+    "name": "Ms Hina Rashid",
+    "department": "Educational Sciences",
+    "designation": "Lecturer (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/21da290812ed3fb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1705"
+  },
+  {
+    "name": "Dr. Zia Ur Rehman",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor (Contract) and Coordinator Undergraduate Programs",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fa757dc238328d5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1712"
+  },
+  {
+    "name": "Dr. Wajeeha Shahid",
+    "department": "Educational Sciences",
+    "designation": "Associate Professor/ Director Examination / HEC Approved Supervisor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/38de502fa3a7b5b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1025"
+  },
+  {
+    "name": "Dr. Saira Nudrat",
+    "department": "Educational Sciences",
+    "designation": "Assistant Professor/  Director Libraries",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2b6aa25a6cc6a56.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1027"
+  },
+  {
+    "name": "Dr. Shahid Habib",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor/ Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3d34ed4137ae198.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1453"
+  },
+  {
+    "name": "Dr. Athar Rashid",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor | Program Coordinator (Graduate Programs)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/59e32528a51d953.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/938"
+  },
+  {
+    "name": "Dr. Zain Rafique",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a3eb3bb1bfdf92f.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/451"
+  },
+  {
+    "name": "Dr. Rizwan Ali Shinwari",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4cedb64d9febd4b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/945"
+  },
+  {
+    "name": "Ms. Saadia Bano Hashmi",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/061fe004d81c8fc.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/450"
+  },
+  {
+    "name": "Dr. Shahida Noor",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/57ea94e68add818.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/452"
+  },
+  {
+    "name": "Dr. Ayesha Khan",
+    "department": "Governance & Public Policy",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fa6668b553a095a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1884"
+  },
+  {
+    "name": "Yasir Ameen",
+    "department": "Governance & Public Policy",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fe9e1836bc55c3c.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/535"
+  },
+  {
+    "name": "Ali Shafqat Khan",
+    "department": "Governance & Public Policy",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/464ba5983d2b440.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/539"
+  },
+  {
+    "name": "Safyan Shams",
+    "department": "Governance & Public Policy",
+    "designation": "Lecturer / Coordinator (Undergraduate Program)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/85bf917bd0f8ddd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1624"
+  },
+  {
+    "name": "Prof. Dr. Muhammad Riaz Shad",
+    "department": "International Relations",
+    "designation": "Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d3c0841205a7224.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/432"
+  },
+  {
+    "name": "Dr. Sarwat Rauf",
+    "department": "International Relations",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3242152c0c5af2d.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/454"
+  },
+  {
+    "name": "Dr. Rizwana Karim Abbasi",
+    "department": "International Relations",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/55a142a2c73c924.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/440"
+  },
+  {
+    "name": "Ms. Pashmina Mughal",
+    "department": "International Relations",
+    "designation": "Assistant Professor (Coordinator Post Graduate Program)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e3e85aabc495f0c.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/447"
+  },
+  {
+    "name": "Dr. Attiq ur Rehman",
+    "department": "International Relations",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/27489bc64692174.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/446"
+  },
+  {
+    "name": "Dr. Farhat Konain",
+    "department": "International Relations",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d54956bf75a92bd.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/448"
+  },
+  {
+    "name": "Dr. Maliha Zeba Khan",
+    "department": "International Relations",
+    "designation": "Assistant Professor; Academic Coordinator BS Program",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/7701ec9970115f1.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/456"
+  },
+  {
+    "name": "Dr. Sajid Iqbal",
+    "department": "International Relations",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f9b47cbfb78e045.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/771"
+  },
+  {
+    "name": "Dr.Tatheer Zahra Sherazi",
+    "department": "International Relations",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8663b32d9b0d247.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/878"
+  },
+  {
+    "name": "Dr. Noor Saeed Khan",
+    "department": "International Relations",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/091582021882002.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1951"
+  },
+  {
+    "name": "Ms. Saadia Saif Niazi",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/96349e8e772d58e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/445"
+  },
+  {
+    "name": "Tabinda Zehra",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e6eb5df109925d7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/512"
+  },
+  {
+    "name": "Ghazanfar Ali Garewal",
+    "department": "International Relations",
+    "designation": "Lecturer, Coordinator M. Sc. & BS-IR",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/afa6f39172ebd85.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/444"
+  },
+  {
+    "name": "Mr. Rashid Khan",
+    "department": "International Relations",
+    "designation": "Lecturer (BS Coordinator Morning)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/950fdc6e8a954b5.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/515"
+  },
+  {
+    "name": "Sidra Sulman Malik",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/17921c2a787dc9e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/453"
+  },
+  {
+    "name": "Ms. Beenish Khan",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/74050b3894fedac.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/516"
+  },
+  {
+    "name": "Sarfraz Ahmed",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fdc06b891a4ae99.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/770"
+  },
+  {
+    "name": "Muhammad Sheraz",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/26df0b29e03e5d5.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/773"
+  },
+  {
+    "name": "Dr. Azeem Gul",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/93f3bd723d3b224.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/774"
+  },
+  {
+    "name": "Ms. Uzma Gul",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c80af23d3f9f79c.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1515"
+  },
+  {
+    "name": "Attal Khan",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c7253f2d5c36226.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1543"
+  },
+  {
+    "name": "Aqsa Aslam",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2555965517e75a8.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1550"
+  },
+  {
+    "name": "Ms Maheen Farhat Raza",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cb0a89b5b17e47e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1551"
+  },
+  {
+    "name": "Ms. Ayesha Nawaz Malik",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cbb5a8ae17186ef.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1934"
+  },
+  {
+    "name": "Mr Sultan Ghulam Dastgir Sani",
+    "department": "International Relations",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1abec022459f950.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1937"
+  },
+  {
+    "name": "Dr. Riaz Ahmad Saeed",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5c3757593e6077d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/496"
+  },
+  {
+    "name": "Prof. Dr. Mustafeez Ahmad Alvi",
+    "department": "Islamic Thought and Culture",
+    "designation": "Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ad01f56a44ea098.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/781"
+  },
+  {
+    "name": "Dr. Syed Abdul Ghaffar Bukhari",
+    "department": "Islamic Thought and Culture",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/31f1dbac85a28e9.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/499"
+  },
+  {
+    "name": "Dr. Noor Hayat Khan",
+    "department": "Islamic Thought and Culture",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6fce2366e3e8441.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/503"
+  },
+  {
+    "name": "Dr. Altaf Ahmed",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/172c0fd5e6650a5.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/760"
+  },
+  {
+    "name": "Dr. Munazza Sultana",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/11b9303b288ef2b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/494"
+  },
+  {
+    "name": "Dr. Amjad Hayat",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/88cb3f2b40f5c42.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/500"
+  },
+  {
+    "name": "Dr. Irum Sultana",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/63cac6e82fb82f4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/493"
+  },
+  {
+    "name": "Dr. Noor Wali Shah",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dc7160d4def50b7.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1099"
+  },
+  {
+    "name": "Dr. Syeda Mehmoona Khushbakht",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/248f8ef6d735216.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1246"
+  },
+  {
+    "name": "Dr. Muhammad Umar Farooq",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor, Coordinator (Undergraduate)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d89105a0ff34af2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1335"
+  },
+  {
+    "name": "Dr. Afia Mehdi",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/debc15fd75fd101.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/508"
+  },
+  {
+    "name": "Hafiz Muhammad Asim",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer,",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a78785f0c3e80d2.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/873"
+  },
+  {
+    "name": "Dr Zia Ul Haq",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer BPS-18",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5097afa61086c38.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1500"
+  },
+  {
+    "name": "Ms.Saira Jabeen Malik",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1efa6193d429377.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/495"
+  },
+  {
+    "name": "Dr. Abdul Hayee",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b42fdc2e06ae583.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/501"
+  },
+  {
+    "name": "Dr.  Abdul Rauf",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor & Coordinator Post-Graduate",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/db74a22c6f05fdb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/509"
+  },
+  {
+    "name": "Dr. Mohsin Khan Abbasi",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d77d9a4e2ab5600.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/777"
+  },
+  {
+    "name": "Qasim Ali",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9179ede60691475.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1894"
+  },
+  {
+    "name": "Dr. Shad Muhammad",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ec78f51e5efc32f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1895"
+  },
+  {
+    "name": "Dr. Ammara Ihsan",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ae84bec97771a5c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1896"
+  },
+  {
+    "name": "Dr. Saeed Ahmad",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d114095ede851fb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1100"
+  },
+  {
+    "name": "Dr SABAH NAZ",
+    "department": "Islamic Thought and Culture",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bc5c61caa09bb83.PNG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1461"
+  },
+  {
+    "name": "Rimsha Khalid",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a465e20d7e99924.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1454"
+  },
+  {
+    "name": "Yahya Maqsood",
+    "department": "Islamic Thought and Culture",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/827a0d2e8b99bfb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1944"
+  },
+  {
+    "name": "Prof. Dr. Khalid Sultan",
+    "department": "Media and Communication Studies",
+    "designation": "Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b494094bf68a43a.PNG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/343"
+  },
+  {
+    "name": "Dr. Mudassir Mukhtar",
+    "department": "Media and Communication Studies",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/830885a859ed952.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/344"
+  },
+  {
+    "name": "Dr. Ayesha Siddiqua",
+    "department": "Media and Communication Studies",
+    "designation": "HoD/Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b7e301bdec9f313.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/352"
+  },
+  {
+    "name": "Dr. Amna Zulfiqar",
+    "department": "Media and Communication Studies",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/168a2f8f0c5f45e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/370"
+  },
+  {
+    "name": "Dr. Qasim Mahmood",
+    "department": "Media and Communication Studies",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9aea1c44a54f05c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/369"
+  },
+  {
+    "name": "Dr. Attia Altaf",
+    "department": "Media and Communication Studies",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/080f57ffab338ff.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/396"
+  },
+  {
+    "name": "Raja Kamran",
+    "department": "Media and Communication Studies",
+    "designation": "Director Students Affairs (DSA)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8afb7163cf2fac7.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/349"
+  },
+  {
+    "name": "Dr. Aqeel Ahmed",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer/Coordinator M.Phil. & Ph.D.",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/751576fcf7e6d19.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/345"
+  },
+  {
+    "name": "Dr. Noor-ul-Ain",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/12551bca0549126.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/353"
+  },
+  {
+    "name": "Zarmina Gull",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/11f30d82e386991.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/365"
+  },
+  {
+    "name": "Babar Iqbal",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/61bcef0319fd1ea.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/366"
+  },
+  {
+    "name": "Muhammad Kashif",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/20cd9f3ad08f64f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/486"
+  },
+  {
+    "name": "Muhammad Shahzad Yousaf",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ebcf37b1a9ea211.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1237"
+  },
+  {
+    "name": "Sobia Javed",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f6b9beafb1cd887.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/350"
+  },
+  {
+    "name": "Sidra Shahid",
+    "department": "Media and Communication Studies",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3a21aeba7b41bd2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/924"
+  },
+  {
+    "name": "Quratulain Saleem",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ca6594df0c4174f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/368"
+  },
+  {
+    "name": "Maida Khan",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f969e451bdec539.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/927"
+  },
+  {
+    "name": "Syed M. Hasnain Raza",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/287ab36289b90cf.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/928"
+  },
+  {
+    "name": "Adnan Ramzan",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bf9ec46248eadbc.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/395"
+  },
+  {
+    "name": "Maryam Mansoor",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ee78dfbb8349636.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/929"
+  },
+  {
+    "name": "Isma Anum",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer (BS Coordinator)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ecbfbb7fd0a67ba.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1232"
+  },
+  {
+    "name": "Sadaf Asif",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f94d70ae2aa78c1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/351"
+  },
+  {
+    "name": "Zeeshan Hameed",
+    "department": "Media and Communication Studies",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/41f0981158c78e9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1233"
+  },
+  {
+    "name": "Dr. Aatif Iftikhar",
+    "department": "Media and Communication Studies",
+    "designation": "Assistant Professor (Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/45308bde4e0b84f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/354"
+  },
+  {
+    "name": "Haroon Elahi",
+    "department": "Media and Communication Studies",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4267ec170bd7648.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/931"
+  },
+  {
+    "name": "Ahsan Raza",
+    "department": "Media and Communication Studies",
+    "designation": "LECTURER",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/505f67b9dd93ab3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1235"
+  },
+  {
+    "name": "Faiza Khalid",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b52c858adb5dddd.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/355"
+  },
+  {
+    "name": "Amna Khurshid",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f2f16974a2da8a8.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/363"
+  },
+  {
+    "name": "Zaid Bin Inam",
+    "department": "Media and Communication Studies",
+    "designation": "LECTURER",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a1ff78ecc397509.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1561"
+  },
+  {
+    "name": "Asam Saleem",
+    "department": "Media and Communication Studies",
+    "designation": "Lecturer (Visiting)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bd695b7cd1480c1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1885"
+  },
+  {
+    "name": "Dr. Adiba Akhtar",
+    "department": "Media and Communication Studies",
+    "designation": "LECTURER",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e68a72fd515d748.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1952"
+  },
+  {
+    "name": "Dr. Fazal Rabbi",
+    "department": "Pakistan Studies",
+    "designation": "Associate Professor (Approved Supervisor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ad08d3420368ad3.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/559"
+  },
+  {
+    "name": "Dr. Muhammad Shoaib Malik",
+    "department": "Pakistan Studies",
+    "designation": "Assistant Professor (Approved Supervisor) Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2256e4bdb016ab9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/567"
+  },
+  {
+    "name": "Dr. Shahzad Qaisar",
+    "department": "Pakistan Studies",
+    "designation": "Assistant Professor (Approved Supervisor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e1926c246943de9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/654"
+  },
+  {
+    "name": "Dr. Javed Ali Kalhoro",
+    "department": "Pakistan Studies",
+    "designation": "Assistant Professor (Approved Supervisor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/814f731767e78eb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/647"
+  },
+  {
+    "name": "Dr. Abid Hussain Abbasi",
+    "department": "Pakistan Studies",
+    "designation": "Assistant Professor (Approved Supervisor)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/03112a45b96381b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/943"
+  },
+  {
+    "name": "Dr. Munnaza Mubarak",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer/Coordinator MPhil/PhD Programme",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/09a944c50a7d4c9.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1642"
+  },
+  {
+    "name": "Syed Hamid Mehmood Bukhari",
+    "department": "Pakistan Studies",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6157a98f3136fc3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/560"
+  },
+  {
+    "name": "MajKhalil Ahmad",
+    "department": "Pakistan Studies",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/68a4370a97abf0d.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/562"
+  },
+  {
+    "name": "Tazeem Imran",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c2be3daafe715ed.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/652"
+  },
+  {
+    "name": "Dr. Farhat Nasim",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/145ee4b22667f02.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/569"
+  },
+  {
+    "name": "Uzma Malik",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d7141b256bb197a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/653"
+  },
+  {
+    "name": "Azhar Mahmood Abbasi",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer/Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e5d27e627f59e03.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/563"
+  },
+  {
+    "name": "Safiullah Tariq",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f37185fbf9a351d.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/568"
+  },
+  {
+    "name": "Salma Rahim",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/a591c0fa31f1f9a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/648"
+  },
+  {
+    "name": "kanwal Noreen",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/47c960f766510a4.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/646"
+  },
+  {
+    "name": "Mr. Sohail Akhtar",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/423b2d432189e87.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1216"
+  },
+  {
+    "name": "Muhammad Anwar",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/782a082b9412acc.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/935"
+  },
+  {
+    "name": "Sara Guchani",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/196f70b051abe28.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/934"
+  },
+  {
+    "name": "Mr. Dilawar Hussain Saidhen",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8178ff05b6a0a42.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1214"
+  },
+  {
+    "name": "Jahanzeb Waseh",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/efaab6a23c65561.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/650"
+  },
+  {
+    "name": "Sadia Masood",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8154864be5b3d33.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/651"
+  },
+  {
+    "name": "Mubashir Fiaz",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c30fc3575872a0e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/657"
+  },
+  {
+    "name": "Maria Younas",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/68d81e52b41a896.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/936"
+  },
+  {
+    "name": "Sapna Badar Qureshi",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/42bf39f4c5ed470.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1055"
+  },
+  {
+    "name": "Mr. Kashif Ashfaq",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer (On Visiting)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4f273cc314c71a7.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1347"
+  },
+  {
+    "name": "Mr. Maisam Muhammad Kazim",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f61b20674fd061f.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1215"
+  },
+  {
+    "name": "Shahzad Qayyum Satti",
+    "department": "Pakistan Studies",
+    "designation": "Supdtt/Office Incharge",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0b91849661eae85.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/561"
+  },
+  {
+    "name": "Mr. Muhammad Saad Arshad",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/81e4f47f81258e1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1348"
+  },
+  {
+    "name": "Sana Amjad",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c1148ac32bb350a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1054"
+  },
+  {
+    "name": "Irram Nazish",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer (On Contract)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0e75bfa6bcf1a9e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1349"
+  },
+  {
+    "name": "Nadeem Tariq",
+    "department": "Pakistan Studies",
+    "designation": "Lecturer (On Visiting)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ac7b7df06afea70.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1056"
+  },
+  {
+    "name": "Dr.Ashfaq Ahmad",
+    "department": "Peace & Conflict Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/885"
+  },
+  {
+    "name": "Aalia Naseer",
+    "department": "Peace & Conflict Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c7bdd1cd664b01f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/887"
+  },
+  {
+    "name": "Azka Durrani",
+    "department": "Peace & Conflict Studies",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f9e75e8c6681d9a.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/890"
+  },
+  {
+    "name": "Dr. Arshad Mahmood",
+    "department": "English GS",
+    "designation": "Dean FAH/ Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8880758daca353d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1552"
+  },
+  {
+    "name": "Dr. Farheen Ahmed Hashmi",
+    "department": "English GS",
+    "designation": "Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/76bb5b2810d9a54.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/624"
+  },
+  {
+    "name": "Dr. Inayat Ullah",
+    "department": "English GS",
+    "designation": "Associate Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/fc2762e41469f98.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/830"
+  },
+  {
+    "name": "Dr. Asma Haseeb Qazi",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/75d4ab6a5d3cd59.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1091"
+  },
+  {
+    "name": "Dr. Rabia Aamir",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b729826ae30b126.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1720"
+  },
+  {
+    "name": "Dr. Yasir Arafat",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e28a8ae02a35e38.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/612"
+  },
+  {
+    "name": "Dr. Aneela Gill",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2319e9e8aaed9c1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/616"
+  },
+  {
+    "name": "Dr. Sibghatullah Khan",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bf99c287f0bfcdc.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/610"
+  },
+  {
+    "name": "Dr. Shehr Bano Zaidi",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d2568aafa97c912.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1095"
+  },
+  {
+    "name": "Dr. Khurram Shehzad",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dda26c05f15ae85.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1092"
+  },
+  {
+    "name": "Dr. Syeda Juwairyya Mobein",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/349b70de1d0111b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/617"
+  },
+  {
+    "name": "Dr. Saima Hassan",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/874f50a09bb34bb.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1955"
+  },
+  {
+    "name": "Dr. Humaira Ahmad",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/162c31250355dd3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1094"
+  },
+  {
+    "name": "Dr. Uzma A. Ansari",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/99c3a22092fee47.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1556"
+  },
+  {
+    "name": "Dr. Muhammad Haseeb Nasir",
+    "department": "English GS",
+    "designation": "Assistant Professor, PhD Coordinator",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f4ad54f9902be7d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1482"
+  },
+  {
+    "name": "Fouzia Jamal Goreja",
+    "department": "English GS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/213ccaa749e99ce.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1554"
+  },
+  {
+    "name": "Uzma Mumtaz Aziz",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e3159c4eb1cf056.PNG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1559"
+  },
+  {
+    "name": "Samina Qayyum Sulman",
+    "department": "English GS",
+    "designation": "Lecturer/ Coordinator MPhil English",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f30c259693cdf2e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1627"
+  },
+  {
+    "name": "Maryam Malik",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bbceb8efd9b6ea6.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1555"
+  },
+  {
+    "name": "Mohib Ullah",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/46304f91c406fb1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/920"
+  },
+  {
+    "name": "Aleena Shahzad",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d1deb6c20b145c1.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1558"
+  },
+  {
+    "name": "Ayesha Zahoor",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ff66cee2aaec2df.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1553"
+  },
+  {
+    "name": "Rabeea Maryam",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6fd19502c77d831.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1557"
+  },
+  {
+    "name": "Aimun Noor",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/959512e7550aa94.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1583"
+  },
+  {
+    "name": "Umar Ateeq",
+    "department": "English GS",
+    "designation": "Lecturer, BS Bridging Coordinator (Morning)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e5a89572360aa3f.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1581"
+  },
+  {
+    "name": "Sajmas Urooj",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c31be0d55ce2ead.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1585"
+  },
+  {
+    "name": "Ms Sana Waqas Qureshi Hashmi",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dd28cce386e3a35.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1629"
+  },
+  {
+    "name": "Sehrish Khan",
+    "department": "English GS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4e5a448e58e4f9a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1739"
+  },
+  {
+    "name": "Dr. Muntazar Mehdi",
+    "department": "English UGS",
+    "designation": "Assistant Professor/ Head of Department",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/e440980f74e8b1a.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/685"
+  },
+  {
+    "name": "Ms. Ambreena Qayyum",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/563b04e310b48cb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1607"
+  },
+  {
+    "name": "Dr. Khadeeja Mushtaq",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1206e8080d558d0.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1578"
+  },
+  {
+    "name": "Mr. Habib Ur Rehman",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/09233ffd36aaf88.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1563"
+  },
+  {
+    "name": "Dr Khurram Shehzad",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1bfce04625fdd03.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/686"
+  },
+  {
+    "name": "Ms. Bushra Khan",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c6d6881dacee518.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1573"
+  },
+  {
+    "name": "Dr. Bilal Hussain",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5a935a3c4f648a4.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1565"
+  },
+  {
+    "name": "Dr. Ayyaz Mahmood",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/157904c4cc63ea3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1574"
+  },
+  {
+    "name": "Ms. Nusrat Nasir",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/86a5609f7470e84.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1566"
+  },
+  {
+    "name": "Ms. Sumaira Ashraf",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/dbe85418eb0ed8b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1588"
+  },
+  {
+    "name": "Ms. Bushra Ashraf",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/432dfb44c073f63.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1567"
+  },
+  {
+    "name": "Dr. Shazia Rose",
+    "department": "English UGS",
+    "designation": "Assistant Professor/ BS English Coordinator (Morning)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2ab6e13d4b56c18.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/689"
+  },
+  {
+    "name": "Dr. Attia Saman",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/37d99a638480928.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1587"
+  },
+  {
+    "name": "Dr. Farah Hashmi",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/68ad2fd162e5359.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/690"
+  },
+  {
+    "name": "Dr. Ghazala Kausar",
+    "department": "English UGS",
+    "designation": "Associate  Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9561527a21f51c1.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/737"
+  },
+  {
+    "name": "Dr Aziz Ullah Khan",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8de060c75424ee2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/688"
+  },
+  {
+    "name": "Dr. Islam Badshah",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d02c369c2ddd70d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1606"
+  },
+  {
+    "name": "Dr. Muhammad Yousaf",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/78c89577f03549d.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/707"
+  },
+  {
+    "name": "Dr. Noureen Naz",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/c1c62db7355597e.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1568"
+  },
+  {
+    "name": "Dr. Kalsoom Khan",
+    "department": "English UGS",
+    "designation": "Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/95dcaa303ff02c6.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1579"
+  },
+  {
+    "name": "Dr. Salma Qayyum",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/78cfd944e344200.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/695"
+  },
+  {
+    "name": "Ms. Sadia Hoori",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/68716875c821c6b.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1597"
+  },
+  {
+    "name": "Ms. Khadija Javed",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2e35c3f182d3105.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/697"
+  },
+  {
+    "name": "Ms. Alia Hamid",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d94ddef7e3d981b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/701"
+  },
+  {
+    "name": "Ms. Atteya Shahnaz",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/8966221bb4e1e9d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/699"
+  },
+  {
+    "name": "Ms. Iram Saleem",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bb86b4ea31427fa.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/698"
+  },
+  {
+    "name": "Ms. Ada Nabi Mir",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/f71e2394316160d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1570"
+  },
+  {
+    "name": "Ms. Wajiha Shah",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9016c800af1c9d2.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1569"
+  },
+  {
+    "name": "Ms. Nadia Akram",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/893ef4839e38e80.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1590"
+  },
+  {
+    "name": "Ms. Mehwish Zafar",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/94500d68568550d.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1591"
+  },
+  {
+    "name": "Ms. Munazza Mahmood",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/bc2a2829d79131b.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/691"
+  },
+  {
+    "name": "Ms. Huma Rashid",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/5ff7e2c7b8ce6d4.JPG",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1592"
+  },
+  {
+    "name": "Ms. Hadeeqa Sarwar",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/42a71fa1a180f5b.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1598"
+  },
+  {
+    "name": "Mr. Ahsan Afzaal Ahmed",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1a54191e4f5204c.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/732"
+  },
+  {
+    "name": "Ms. Iram Shehzadi Sabir",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/842595dacc45f08.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/702"
+  },
+  {
+    "name": "Dr. Sana Tariq",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6b56579269720ed.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/703"
+  },
+  {
+    "name": "Dr. Amina Ghazanfar",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/b778863e5b3e17e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/706"
+  },
+  {
+    "name": "Dr. Samar Zakki",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/136ee9fcf54e9c3.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/709"
+  },
+  {
+    "name": "Ms. Qurrat ul Ain",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/31240994345aaec.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1586"
+  },
+  {
+    "name": "Ms. Uzma Moin",
+    "department": "English UGS",
+    "designation": "C-Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/df873172f24c945.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/710"
+  },
+  {
+    "name": "Ms. Khadija Tahira",
+    "department": "English UGS",
+    "designation": "C-Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/34402f905bbc5dd.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/717"
+  },
+  {
+    "name": "Ms. Amina Ayaz",
+    "department": "English UGS",
+    "designation": "C-Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/0a835c95927d364.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/712"
+  },
+  {
+    "name": "Ms. Asmet Abbas",
+    "department": "English UGS",
+    "designation": "C-Lecturer/ BS English Coordinator (Afternoon)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ad5e9432bb4e9db.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/722"
+  },
+  {
+    "name": "Mr. Akhtar Ali",
+    "department": "English UGS",
+    "designation": "C-Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2b273dad1b40b61.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/715"
+  },
+  {
+    "name": "Ms. Abeer Najm",
+    "department": "English UGS",
+    "designation": "Contract Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/1a5c30c03ef66e7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1575"
+  },
+  {
+    "name": "Ms. Sonia Gul",
+    "department": "English UGS",
+    "designation": "C-Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cb1653bef6b6e8e.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/719"
+  },
+  {
+    "name": "Ms. Aleena Shahzad",
+    "department": "English UGS",
+    "designation": "Contract  Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/879652dedbf8665.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1593"
+  },
+  {
+    "name": "Mr. Faisal Khan",
+    "department": "English UGS",
+    "designation": "C-Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9ae7b75d35ed304.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/713"
+  },
+  {
+    "name": "Ms. Sana Zafar",
+    "department": "English UGS",
+    "designation": "Contract Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/3cd8f8cba7edc3c.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1582"
+  },
+  {
+    "name": "Ms. Momina Hafeez",
+    "department": "English UGS",
+    "designation": "Contract Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/2a5350749cdd148.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1577"
+  },
+  {
+    "name": "Ms. Rabeea Maryam",
+    "department": "English UGS",
+    "designation": "Contract Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/80c7280ec143513.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1584"
+  },
+  {
+    "name": "Ms. Sajmas Urooj",
+    "department": "English UGS",
+    "designation": "Contract Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/91ba9ba1bf9acfe.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1580"
+  },
+  {
+    "name": "Ms. Shagufta Mumtaz",
+    "department": "English UGS",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/d3576e50e5c1a23.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1576"
+  },
+  {
+    "name": "Ms. Asifa Zafar Rana",
+    "department": "English UGS",
+    "designation": "C-Lecturer (History)",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/ad6f7d3ff33c8d7.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/723"
+  },
+  {
+    "name": "Umm-e-Rumman Syed",
+    "department": "English UGS",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/9a180eb936b80c1.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1865"
+  },
+  {
+    "name": "Dr.Faiz Sultan",
+    "department": "English UGS",
+    "designation": "Adjunct Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/73a6ef82962cbdb.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1866"
+  },
+  {
+    "name": "Mr. Sajad khan",
+    "department": "English UGS",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/99f5b7e255f6391.jpg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1594"
+  },
+  {
+    "name": "Laiba Shafqat Khan",
+    "department": "English UGS",
+    "designation": "Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/6876369453b2f35.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1867"
+  },
+  {
+    "name": "Umar Waqar Azim",
+    "department": "English UGS",
+    "designation": "Visiting Lecturer",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/cb94672c18dae95.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1868"
+  },
+  {
+    "name": "Dr.Faisal Sukhera",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1870"
+  },
+  {
+    "name": "Dr.Zafar Iqbal",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1871"
+  },
+  {
+    "name": "Zafar Abbas",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1872"
+  },
+  {
+    "name": "Maria Nawaz",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1873"
+  },
+  {
+    "name": "Uzma Arshad",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1874"
+  },
+  {
+    "name": "Sidra Ali Shah",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1875"
+  },
+  {
+    "name": "Ahmed Nafees",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1876"
+  },
+  {
+    "name": "Khawar Aziz",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1877"
+  },
+  {
+    "name": "Zafar Sultan",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1878"
+  },
+  {
+    "name": "Dr.Ghulam Abbas",
+    "department": "English UGS",
+    "designation": "Adjunct Assistant Professor",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/86e909d4730ff22.jpeg",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1879"
+  },
+  {
+    "name": "Fareeha Zaheer",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/no-avatar.gif",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1880"
+  },
+  {
+    "name": "Riaz Hussain",
+    "department": "English UGS",
+    "designation": "Visiting Faculty Member",
+    "imageUrl": "https://numl.edu.pk/departments/faculties/4b28d64390bbfe1.png",
+    "profileUrl": "https://www.numl.edu.pk/faculty/1881"
+  }
+]

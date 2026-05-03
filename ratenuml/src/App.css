@@ -1,0 +1,42 @@
+/* ============================================
+   App Layout
+   ============================================ */
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content { flex: 1; }
+
+.app-footer {
+  background: var(--primary);
+  text-align: center;
+  padding: 16px;
+  color: rgba(255,255,255,0.35);
+  font-size: 0.75rem;
+}
+
+.page-loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.page-loader-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.page-loader-text {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}

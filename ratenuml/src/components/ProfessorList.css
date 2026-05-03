@@ -1,0 +1,201 @@
+/* ============================================
+   ProfessorList — Horizontal cards
+   ============================================ */
+
+.professor-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-bottom: 48px;
+}
+
+.professor-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 18px 24px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  transition: all var(--transition);
+  animation: fadeIn 0.3s ease both;
+}
+
+.professor-card:hover {
+  border-color: var(--accent);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-1px);
+}
+
+/* Avatar */
+.card-avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-md);
+  object-fit: cover;
+  flex-shrink: 0;
+  background: var(--bg-gray);
+  border: 1px solid var(--border);
+}
+
+.card-avatar-placeholder {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-md);
+  background: var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: white;
+  flex-shrink: 0;
+}
+
+/* Info */
+.card-info { flex: 1; min-width: 0; }
+
+.card-name {
+  font-size: 1.05rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--primary);
+  letter-spacing: 0.01em;
+  margin-bottom: 2px;
+}
+
+.card-department {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.card-rating-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.card-stars { display: flex; gap: 2px; }
+
+.card-star { font-size: 0.95rem; color: var(--star-empty); line-height: 1; }
+.card-star.filled { color: var(--star-filled); }
+
+.card-rating-number { font-size: 0.85rem; font-weight: 700; color: var(--text-dark); }
+
+.card-review-count {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Action buttons — HIGH CONTRAST */
+.card-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.card-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 9px 22px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: var(--radius-sm);
+  transition: all var(--transition);
+  white-space: nowrap;
+  min-width: 130px;
+}
+
+.card-btn svg { width: 14px; height: 14px; }
+
+/* Reviews button — solid blue */
+.card-btn-reviews {
+  background: var(--accent);
+  color: white;
+  border: none;
+}
+
+.card-btn-reviews:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+/* Profile button — outlined */
+.card-btn-profile {
+  background: transparent;
+  color: var(--accent);
+  border: 1.5px solid var(--accent);
+}
+
+.card-btn-profile:hover {
+  background: var(--accent);
+  color: white;
+  transform: translateY(-1px);
+}
+
+/* Skeleton */
+.skeleton-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 18px 24px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+}
+
+.skeleton-bar {
+  background: linear-gradient(90deg, var(--bg-gray) 25%, var(--border) 50%, var(--bg-gray) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: var(--radius-sm);
+}
+
+@keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+
+.skeleton-avatar { width: 72px; height: 72px; border-radius: var(--radius-md); flex-shrink: 0; }
+.skeleton-info { flex: 1; }
+.skeleton-text { height: 14px; margin-bottom: 8px; }
+
+.empty-state { text-align: center; padding: 48px 24px; color: var(--text-muted); }
+.empty-state h3 { font-size: 1.1rem; color: var(--text-dark); margin-bottom: 4px; }
+
+/* Pagination */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 24px 0;
+}
+
+.page-btn {
+  padding: 8px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-body);
+  transition: all var(--transition);
+}
+
+.page-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.page-btn.active { background: var(--accent); border-color: var(--accent); color: white; }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+@media (max-width: 640px) {
+  .professor-card { flex-direction: column; text-align: center; padding: 20px; }
+  .card-rating-row { justify-content: center; }
+  .card-actions { flex-direction: row; width: 100%; }
+  .card-btn { flex: 1; min-width: 0; }
+}

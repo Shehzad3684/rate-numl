@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+ratenuml/node_modules/
+
+# Build output
+dist/
+ratenuml/dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+ratenuml/.env
+ratenuml/.env.local
+
+# Firebase service account (NEVER commit this)
+serviceAccountKey.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
